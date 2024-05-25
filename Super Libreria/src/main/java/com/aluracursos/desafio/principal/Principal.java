@@ -31,7 +31,7 @@ public class Principal {
                     
                     0 - Salir
              
-                    Escoga una opcion:
+                    Escoja una opcion:
                     """;
             try {
                 System.out.println(menu);
